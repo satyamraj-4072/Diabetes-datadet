@@ -1,1 +1,1 @@
-# Diabetes-datadet
+# Diabetes-dataset
